@@ -1,0 +1,80 @@
+{
+    "PC211261101":{
+        "student_id": "PC211261101",
+        "student_name": "Vedansh Keshari",
+        "mobile_number_call": "+91-1234543211",
+        "mobile_number_whatsapp": "+91-1234543211",
+        "email_id": "vedansh19@gmail.com",
+        "father_name": "Brijesh Gupta",
+        "mother_name": "Shachi Gupta",
+        "parent_mobile_number": "+91-1234543211",
+        "address": "",
+        "study_in": "College",
+        "name_of_school_college": "Vellore Institute of Technology, Vellore",
+        "school_college_address": "Vellore - 632 014, Tamil Nadu",
+        "class_degree_name": "B.Tech.",
+        "school_class_college_student_year": "1st",
+        "city_country": "City, India",
+        "know_my_classes_through": "Friends",
+        "skills_have": [
+
+        ],
+        "expect_to_learn":[
+            "Python"
+        ],
+        "any_comments": "",
+        "available_tests": [
+              
+        ],
+        "completed_tests":[
+            {
+                "Test_ID":"CC100",
+                "Test_name":"C Test-1", 
+                "Test_paper":"C_Core_Test_CC100", 
+                "Answer_sheet":"C_Core_Test_CC100_CC101211100_Checked", 
+                "Marks_received":33, 
+                "Total_marks":100
+            }
+        ]
+    },
+
+    "CC101211100":{
+        "student_id": "CC101211100",
+        "student_name": "Sivaranjini",
+        "mobile_number_call": "+91-6382997407",
+        "mobile_number_whatsapp": "+91-6382642826",
+        "email_id": "ravisivaranjani2001@gmail.com",
+        "father_name": "Ravi S",
+        "mother_name": "Shanthi R",
+        "parent_mobile_number": "+91-9486387797",
+        "address": "81,",
+        "study_in": "College",
+        "name_of_school_college": "Government Engineering College, Erode",
+        "school_college_address": "Vasavi College Post , Bhavani Bypass, Erode",
+        "class_degree_name": "B.E.",
+        "school_class_college_student_year": "Final",
+        "city_country": "Cuddalore, India",
+        "know_my_classes_through": "WhatsApp",
+        "skills_have": [
+
+        ],
+        "expect_to_learn":[
+            "Java",
+            "C"
+        ],
+        "any_comments": "Thankyou",
+        "available_tests": [
+              
+        ],
+        "completed_tests":[
+            {
+                "Test_ID":"CC100",
+                "Test_name":"C Test-1", 
+                "Test_paper":"C_Core_Test_CC100", 
+                "Answer_sheet":"C_Core_Test_CC100_CC101211100_Checked", 
+                "Marks_received":33, 
+                "Total_marks":100
+            }
+        ]
+    }
+}
