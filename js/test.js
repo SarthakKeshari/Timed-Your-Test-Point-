@@ -40,7 +40,10 @@ xhr.onload = function () {
                   </div>
                   <div class="modal-body mb-5">
                       <!-- HTML for displaying PDF file online -->
-                      <p class="text-secondary fst-italic fs-6 m-0"><small>Question Paper</small></p>
+                      <div class="d-flex justify-content-between">
+                        <p class="text-secondary fst-italic fs-6 m-0"><small>Question Paper</small></p>
+                        <p class="text-secondary fst-italic fs-6 m-0"><small>Date: ${available_test["Test_date"]}</small></p>
+                      </div>
                       <hr class="m-0 mb-2">
                       <div class="d-grid gap-2 p-2">
                           <a type="button" class="btn btn-primary" href="../test_papers/${available_test["Test_paper"]}.pdf" download="${available_test["Test_name"]}(Question Paper)">Download</a>
@@ -81,7 +84,10 @@ xhr.onload = function () {
                 </div>
                 <div class="modal-body mb-5">
                     <!-- HTML for displaying PDF file online -->
-                    <p class="text-secondary fst-italic fs-6 m-0"><small>Question Paper</small></p>
+                    <div class="d-flex justify-content-between">
+                      <p class="text-secondary fst-italic fs-6 m-0"><small>Question Paper</small></p>
+                      <p class="text-secondary fst-italic fs-6 m-0"><small>Date: ${completed_test["Test_date"]}</small></p>
+                    </div>
                     <hr class="m-0 mb-2">
                     <div class="d-grid gap-2 p-2">
                         <a type="button" class="btn btn-primary" href="../test_papers/${completed_test["Test_paper"]}.pdf" download="${completed_test["Test_name"]}(Question Paper)">download</a>
@@ -89,7 +95,10 @@ xhr.onload = function () {
 
                     <hr class="mt-5" style="border: 2px solid #6c63ff">
 
-                    <p class="text-secondary fst-italic fs-6 m-0"><small>Answer Sheet</small></p>
+                    <div class="d-flex justify-content-between">
+                      <p class="text-secondary fst-italic fs-6 m-0"><small>Answer Sheet</small></p>
+                      <p class="text-secondary fst-italic fs-6 m-0"><small>Date: ${completed_test["Answer_date"]}</small></p>
+                    </div>
                     <hr class="m-0 mb-2">
                     <div class="d-grid gap-2 p-2">
                         <a type="button" class="btn btn-primary" href="../test_papers/${completed_test["Answer_sheet"]}.pdf" download="${completed_test["Test_name"]}(Answer Sheet)">download</a>

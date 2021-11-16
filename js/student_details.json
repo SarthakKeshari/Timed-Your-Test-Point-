@@ -24,17 +24,15 @@
         ],
         "any_comments": "",
         "available_tests": [
-              
+            {
+                "Test_ID":"PV100",
+                "Test_name":"Python Test-1", 
+                "Test_paper":"P_Core_Test_PV100",
+                "Test_date":"17/11/2021"
+            }
         ],
         "completed_tests":[
-            {
-                "Test_ID":"CC100",
-                "Test_name":"C Test-1", 
-                "Test_paper":"C_Core_Test_CC100", 
-                "Answer_sheet":"C_Core_Test_CC100_CC101211100_Checked", 
-                "Marks_received":33, 
-                "Total_marks":100
-            }
+            
         ]
     },
 
@@ -71,7 +69,9 @@
                 "Test_ID":"CC100",
                 "Test_name":"C Test-1", 
                 "Test_paper":"C_Core_Test_CC100", 
+                "Test_date":"14/11/2021",
                 "Answer_sheet":"C_Core_Test_CC100_CC101211100_Checked", 
+                "Answer_date":"14/11/2021",
                 "Marks_received":33, 
                 "Total_marks":100
             }
