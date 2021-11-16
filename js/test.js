@@ -27,7 +27,7 @@ xhr.onload = function () {
       // console.log(element)
       available_tests_buttons += `
         <div class="col-lg-6 col-md-6 col-sm-12 d-grid gap-2 pt-4 px-4 mt-2" id="">
-          <button class="btn btn-lg text-white shadow show_test" id="button_${available_test["Test_ID"]}" data-bs-toggle="modal" data-bs-target="#modal_${available_test["Test_ID"]}">${available_test["Test_name"]}</button> 
+          <button class="btn text-white shadow show_test" id="button_${available_test["Test_ID"]}" data-bs-toggle="modal" data-bs-target="#modal_${available_test["Test_ID"]}">${available_test["Test_name"]}</button> 
         </div>`;
 
       available_tests_modals += `
@@ -71,7 +71,7 @@ xhr.onload = function () {
       // console.log(element)
       completed_tests_buttons += `
         <div class="col-lg-6 col-md-6 col-sm-12 d-grid gap-2 pt-4 px-4 mt-2">
-          <button class="btn btn-lg text-white shadow show_test" id="button_${completed_test["Test_ID"]}" data-bs-toggle="modal" data-bs-target="#modal_${completed_test["Test_ID"]}">${completed_test["Test_name"]}</button> 
+          <button class="btn text-white shadow show_test" id="button_${completed_test["Test_ID"]}" data-bs-toggle="modal" data-bs-target="#modal_${completed_test["Test_ID"]}">${completed_test["Test_name"]}</button> 
         </div>`;
 
       completed_tests_modals += `
