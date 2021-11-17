@@ -23,13 +23,63 @@
             "Python"
         ],
         "any_comments": "",
-        "available_tests": [
+        "practice_papers":[
             {
-                "Test_ID":"PV100",
-                "Test_name":"Python Test-1", 
-                "Test_paper":"P_Core_Test_PV100",
-                "Test_date":"17/11/2021"
+                "Paper_ID":"PVP100",
+                "Paper_name":"Python Practice-1", 
+                "Practice_paper":"P_Core_Practice_PVP100",
+                "Paper_date":"17/11/2021",
+                "level":"Easy",
+                "submitted":true,
+                "Practice_solution_name":"P_Core_Practice_PVP100_VEDK11261101_Checked"
+            },
+            {
+                "Paper_ID":"PVP101",
+                "Paper_name":"Python Practice-2", 
+                "Practice_paper":"P_Core_Practice_PVP101",
+                "Paper_date":"18/11/2021",
+                "level":"Easy",
+                "submitted":false,
+                "Practice_solution_name":""
             }
+        ],
+        "available_tests": [
+            
+        ],
+        "completed_tests":[
+            
+        ]
+    },
+
+    "JC110287100":{
+        "student_id": "JC110287100",
+        "student_name": "Vedansh Keshari",
+        "mobile_number_call": "+91-1234543211",
+        "mobile_number_whatsapp": "+91-1234543211",
+        "email_id": "vedansh19@gmail.com",
+        "father_name": "Brijesh Gupta",
+        "mother_name": "Shachi Gupta",
+        "parent_mobile_number": "+91-1234543211",
+        "address": "",
+        "study_in": "College",
+        "name_of_school_college": "Vellore Institute of Technology",
+        "school_college_address": "-",
+        "class_degree_name": "B.Tech.",
+        "school_class_college_student_year": "1st",
+        "city_country": "City, India",
+        "know_my_classes_through": "Friends",
+        "skills_have": [
+
+        ],
+        "expect_to_learn":[
+            "Python"
+        ],
+        "any_comments": "",
+        "practice_papers":[
+            
+        ],
+        "available_tests": [
+            
         ],
         "completed_tests":[
             
@@ -61,6 +111,9 @@
             
         ],
         "any_comments": "-",
+        "practice_papers":[
+            
+        ],
         "available_tests": [
             
         ],
@@ -123,16 +176,19 @@
             "C"
         ],
         "any_comments": "Thankyou",
+        "practice_papers":[
+            
+        ],
         "available_tests": [
               
         ],
         "completed_tests":[
             {
-                "Test_ID":"CC100",
+                "Test_ID":"CCT100",
                 "Test_name":"C Test-1", 
-                "Test_paper":"C_Core_Test_CC100", 
+                "Test_paper":"C_Core_Test_CCT100", 
                 "Test_date":"14/11/2021",
-                "Answer_sheet":"C_Core_Test_CC100_CC101211100_Checked", 
+                "Answer_sheet":"C_Core_Test_CCT100_CC101211100_Checked", 
                 "Answer_date":"14/11/2021",
                 "Marks_received":33, 
                 "Total_marks":100
