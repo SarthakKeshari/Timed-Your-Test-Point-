@@ -27,18 +27,63 @@
             {
                 "Paper_ID":"PVP100",
                 "Paper_name":"Python Practice-1", 
-                "Practice_paper":"P_Core_Practice_PVP100",
+                "Practice_paper":"Python_Core_Practice_PVP100",
                 "Paper_date":"17/11/2021",
                 "level":"Easy",
                 "submitted":true,
-                "Practice_solution_name":"P_Core_Practice_PVP100_VEDK11261101_Checked"
+                "Practice_solution_name":"Python_Core_Practice_PVP100_VEDK11261101_Checked"
             },
             {
                 "Paper_ID":"PVP101",
                 "Paper_name":"Python Practice-2", 
-                "Practice_paper":"P_Core_Practice_PVP101",
+                "Practice_paper":"Python_Core_Practice_PVP101",
                 "Paper_date":"18/11/2021",
                 "level":"Easy",
+                "submitted":false,
+                "Practice_solution_name":""
+            },
+            {
+                "Paper_ID":"PVP102",
+                "Paper_name":"Python Practice-3", 
+                "Practice_paper":"Python_Core_Practice_PVP102",
+                "Paper_date":"18/11/2021",
+                "level":"Easy",
+                "submitted":false,
+                "Practice_solution_name":""
+            },
+            {
+                "Paper_ID":"PVP103",
+                "Paper_name":"Python Practice-4", 
+                "Practice_paper":"Python_Core_Practice_PVP103",
+                "Paper_date":"19/11/2021",
+                "level":"Easy",
+                "submitted":false,
+                "Practice_solution_name":""
+            },
+            {
+                "Paper_ID":"PVP104",
+                "Paper_name":"Python Practice-5", 
+                "Practice_paper":"Python_Core_Practice_PVP104",
+                "Paper_date":"20/11/2021",
+                "level":"Easy",
+                "submitted":false,
+                "Practice_solution_name":""
+            },
+            {
+                "Paper_ID":"PVP105",
+                "Paper_name":"Python Practice-6", 
+                "Practice_paper":"Python_Core_Practice_PVP105",
+                "Paper_date":"21/11/2021",
+                "level":"Medium",
+                "submitted":false,
+                "Practice_solution_name":""
+            },
+            {
+                "Paper_ID":"PVP106",
+                "Paper_name":"Python Practice-7", 
+                "Practice_paper":"Python_Core_Practice_PVP106",
+                "Paper_date":"22/11/2021",
+                "level":"Medium",
                 "submitted":false,
                 "Practice_solution_name":""
             }
